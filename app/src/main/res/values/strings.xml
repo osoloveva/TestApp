@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Test Application</string>
+  <string name="button1">Continue</string>
+  <string name="textview1">1 stage</string>
+</resources>
